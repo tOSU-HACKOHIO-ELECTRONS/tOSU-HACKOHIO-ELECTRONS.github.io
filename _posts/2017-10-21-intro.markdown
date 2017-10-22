@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: page
 title:  "Introduction"
 date:   2017-10-21 22:20:00 -0400
 categories: jekyll update
 ---
-# Revoluion Grazing
+# Revolution Grazing
 
 ## The Problem:
 
@@ -14,9 +14,14 @@ it can lead to catostrophic events like the [dust bowl](https://en.wikipedia.org
 For sustainable agriculture, rotaional grazing is a key
 strategy that farmers use to care for their land.
 
+![](https://spydersden.files.wordpress.com/2011/03/dustbowl.jpg)
+*The Dust Bowl*
+
 ## The Solution
 
 The USDA provides a program that helps farmers manage the rotation
 oof animals, but we created an android app that will calculate and
 track when a farmer needs to rotate fields.
+
+![](https://holisticmanagement.org/wp-content/uploads/2016/06/Sands-rotational-grazing.jpg)
 
