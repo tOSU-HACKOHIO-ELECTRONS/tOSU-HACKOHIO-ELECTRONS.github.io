@@ -20,7 +20,7 @@ strategy that farmers use to care for their land.
 ## The Solution
 
 The USDA provides a program that helps farmers manage the rotation
-oof animals, but we created an android app that will calculate and
+of animals, but we created an android app that will calculate and
 track when a farmer needs to rotate fields.
 
 ![](https://holisticmanagement.org/wp-content/uploads/2016/06/Sands-rotational-grazing.jpg)
