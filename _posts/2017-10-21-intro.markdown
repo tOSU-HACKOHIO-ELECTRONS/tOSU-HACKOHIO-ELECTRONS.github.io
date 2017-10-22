@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Introduction"
+date:   2017-10-21 22:20:00 -0400
+categories: jekyll update
+---
+# Revoluion Grazing
+
+## The Problem:
+
+Over-grazing of fields can cause the detereioration of fields.
+In wet areas, over-grazing can lead to mud pits. In dry areas,
+it can lead to catostrophic events like the [dust bowl](https://en.wikipedia.org/wiki/Dust_Bowl).
+For sustainable agriculture, rotaional grazing is a key
+strategy that farmers use to care for their land.
+
+## The Solution
+
+The USDA provides a program that helps farmers manage the rotation
+oof animals, but we created an android app that will calculate and
+track when a farmer needs to rotate fields.
+
